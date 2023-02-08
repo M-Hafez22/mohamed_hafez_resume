@@ -65,7 +65,9 @@ Basics of
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hafez22&theme=tokyonight&title_color=0797fa&text_color=0094bd&icon_color=00ffff&bg_color=061621&layout=compact&hide=html&langs_count=10)](https://github.com/m-hafez22/github-readme-stats)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=m-hafez22&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hafez22&theme=tokyonight&title_color=0797fa&text_color=0094bd&icon_color=00ffff&bg_color=061621&layout=compact&langs_count=100)](https://github.com/m-hafez22/github-readme-stats)
 
 ![Mohamed Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-hafez22&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&title_color=0797fa&text_color=c9cacc&icon_color=0094bd&bg_color=061621)
 
@@ -73,19 +75,7 @@ Basics of
 
 ## Software I use to get stuff done
 
-- **OS**: &nbsp;[![ArchLinux](https://img.shields.io/badge/-Arch_Linux-333?&logo=ArchLinux)](https://archlinux.org/)
-- **Browsers**:  &nbsp; [![brave](https://img.shields.io/badge/-Brave-333?&logo=brave)](https://brave.com/) &nbsp; [![firefox](https://img.shields.io/badge/-firefox-333?&logo=firefox)](https://www.mozilla.org/en-US/firefox/new/)
-- **Terminal**: ***ZSH*** with ([Oh My Zsh](https://ohmyz.sh/), [PowerLevel10k](https://github.com/romkatv/powerlevel10k)), ***Bash*** with ([OhMyBash](https://github.com/ohmybash/oh-my-bash))
-- **Code Editor**: ![VSCode](https://img.shields.io/badge/-VSCode-333?&logo=VisualStudioCode)&nbsp; ![Sublime_Text3](https://img.shields.io/badge/-Sublime_Text3-333?&logo=Sublime-Text)
-
-OSs I love:
-[![Debian](https://img.shields.io/badge/-Debian-333?&logo=Debian&logoColor=red)](https://www.debian.org/)
-[![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-333?&logo=OpenSUSE)](https://www.opensuse.org/)
-[![Fedora](https://img.shields.io/badge/-Fedora-333?&logo=Fedora)](https://getfedora.org/)
-[![ArchLinux](https://img.shields.io/badge/-ArchLinux-333?&logo=ArchLinux)](https://archlinux.org/)
-[![VoidLinux](https://img.shields.io/badge/-Void_Linux-333?&logo=Void-linux)](https://voidlinux.org/)
-[![MXLinux](https://img.shields.io/badge/-MXLinux-333?&logo=MXLinux)](https://mxlinux.org/)
-[![FreeBSD](https://img.shields.io/badge/-FreeBSD-333?&logo=FreeBSD)](https://www.freebsd.org/)
+[![VoidLinux](https://img.shields.io/badge/-Void_Linux-333?&logo=VoidLinux&style=for-the-badge)](https://Voidlinux.org/) &nbsp; [![Google Chrome](https://img.shields.io/badge/-Google_Chrome-333?&logo=google-chrome&style=for-the-badge)](https://brave.com/) &nbsp; [![firefox](https://img.shields.io/badge/-firefox-333?&logo=firefox&style=for-the-badge)](https://www.mozilla.org/en-US/firefox/new/) &nbsp; ![VSCode](https://img.shields.io/badge/-VSCode-333?&logo=VisualStudioCode&style=for-the-badge) &nbsp; ![Sublime_Text3](https://img.shields.io/badge/-Sublime_Text3-333?&logo=Sublime-Text&style=for-the-badge)  &nbsp; ![Bash](https://img.shields.io/badge/-Bash-333?&logo=gnu-bash&style=for-the-badge)  &nbsp; [![ZSH](https://img.shields.io/badge/-ZSH-333?&logo=zsh-gnu&style=for-the-badge)](https://github.com/romkatv/powerlevel10k)
 
 ---
 
