@@ -4,7 +4,7 @@ import pdfkit
 path_to_wkhtmltopdf = r'/bin/wkhtmltopdf'
 
 # Define path to HTML file
-path_to_file = 'mohamed_hafez_resume.html'
+path_to_file = 'index.html'
 
 # Point pdfkit configuration to wkhtmltopdf
 config = pdfkit.configuration(wkhtmltopdf=path_to_wkhtmltopdf)
