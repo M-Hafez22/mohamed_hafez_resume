@@ -28,6 +28,7 @@ If you want to build something great you can reach me by
 ![HTML](https://img.shields.io/static/v1?labelColor=222&color=F36429&label=%20&message=HTML&logo=HTML5)
 ![CSS3](https://img.shields.io/static/v1?labelColor=222&color=2B64F0&logoColor=2B64F0&label=%20&message=CSS3&logo=CSS3)
 [![JavaScript](https://img.shields.io/static/v1?labelColor=222&color=F7E01D&label=%20&message=JavaScript&logo=JavaScript)](https://github.com/M-Hafez22/Analog_clock)
+[![TypeScript](https://img.shields.io/static/v1?labelColor=222&color=blue&label=%20&message=TypeScript&logo=typescript)](https://github.com/M-Hafez22/M-Hafez22)
 [![MarkDown](https://img.shields.io/static/v1?labelColor=222&color=445A64&label=%20&message=MarkDown&logo=MarkDown)](https://github.com/M-Hafez22/Javascript-the-Good-Parts-notes)
 
 [![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=222&color=1182c3&label=%20)](https://github.com/M-Hafez22/islamic-prayer-times)
