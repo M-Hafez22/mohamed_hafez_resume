@@ -7,6 +7,7 @@ If you want to build something great you can reach me by
 [![Linkedin](https://img.shields.io/badge/-Mohamed_Hafez-blue?style=social&logo=Linkedin)](https://www.linkedin.com/in/M-Hafez22/)
 [![signal](https://img.shields.io/badge/-+201151018296-3B76F1?style=social&logo=signal)](https://signal.me/#p/+201151018296)
 
+[![github](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logo=github)](https://github.com/M-Hafez22)
 [![gitlab](https://img.shields.io/badge/-Mohamed_Hafez-800080?style=for-the-badge&logo=gitlab)](https://gitlab.com/M-Hafez22)
 [![codepen](https://img.shields.io/badge/-Mohamed_Hafez-111?style=for-the-badge&logoColor=white&logo=codepen)](https://codepen.io/M-Hafez)
 [![Mozilla Add-on](https://img.shields.io/badge/-Mozilla_Add--on-20123A?style=for-the-badge&logoColor=8ff7f7&logo=firefox)](https://addons.mozilla.org/en-US/firefox/user/15251328/)
