@@ -26,37 +26,37 @@ If you want to build something great you can reach me by
 
 ## 🛠️ Languages and Tools
 
-![HTML](https://img.shields.io/static/v1?labelColor=222&color=F36429&label=%20&message=HTML&logo=HTML5)
-![CSS3](https://img.shields.io/static/v1?labelColor=222&color=2B64F0&logoColor=2B64F0&label=%20&message=CSS3&logo=CSS3)
-[![JavaScript](https://img.shields.io/static/v1?labelColor=222&color=F7E01D&label=%20&message=JavaScript&logo=JavaScript)](https://github.com/M-Hafez22/Analog_clock)
-[![TypeScript](https://img.shields.io/static/v1?labelColor=222&color=blue&label=%20&message=TypeScript&logo=typescript)](https://github.com/M-Hafez22/M-Hafez22)
-[![MarkDown](https://img.shields.io/static/v1?labelColor=222&color=445A64&label=%20&message=MarkDown&logo=MarkDown)](https://github.com/M-Hafez22/Javascript-the-Good-Parts-notes)
+[![HTML](https://img.shields.io/static/v1?labelColor=222&color=F36429&label=%20&message=HTML&logo=HTML5)](https://github.com/M-Hafez22?tab=repositories&type=&language=html)
+[![CSS3](https://img.shields.io/static/v1?labelColor=222&color=2B64F0&logoColor=2B64F0&label=%20&message=CSS3&logo=CSS3)](https://github.com/M-Hafez22?tab=repositories&language=css)
+[![JavaScript](https://img.shields.io/static/v1?labelColor=222&color=F7E01D&label=%20&message=JavaScript&logo=JavaScript)](https://github.com/M-Hafez22?tab=repositories&language=javascript)
+[![TypeScript](https://img.shields.io/static/v1?labelColor=222&color=blue&label=%20&message=TypeScript&logo=typescript)](https://github.com/M-Hafez22?tab=repositories&language=typescript)
+[![MarkDown](https://img.shields.io/static/v1?labelColor=222&color=445A64&label=%20&message=MarkDown&logo=MarkDown)](https://github.com/M-Hafez22?tab=repositories&q=markdown)
 
-[![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=222&color=1182c3&label=%20)](https://github.com/M-Hafez22/islamic-prayer-times)
-[![Redux](https://img.shields.io/static/v1?message=Redux&labelColor=222&color=1182c3&label=%20&logo=Redux)](https://github.com/M-Hafez22/To-Do-App)
-[![React Router](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-Router&logo=ReactRouter)](https://github.com/M-Hafez22/cs50x-concept)
-![React_Hooks](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-Hooks&logo=React)
-![React Testing Library](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=Testing-Library&logo=Testing-Library)
-![React-query](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-query&logo=React-query)
+[![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=222&color=1182c3&label=%20)](https://github.com/M-Hafez22?tab=repositories&q=react&sort=stargazers)
+[![Redux](https://img.shields.io/static/v1?message=Redux&labelColor=222&color=1182c3&label=%20&logo=Redux)](https://github.com/M-Hafez22?tab=repositories&q=redux)
+[![React Router](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-Router&logo=ReactRouter)](https://github.com/M-Hafez22?tab=repositories&q=react-router)
+[![React_Hooks](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-Hooks&logo=React)](https://github.com/M-Hafez22?tab=repositories&q=react&sort=stargazers)
+[![React Testing Library](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=Testing-Library&logo=Testing-Library)](https://github.com/M-Hafez22?tab=repositories&q=react-testing-library)
+[![React-query](https://img.shields.io/static/v1?labelColor=222&color=1182c3&label=%20&message=React-query&logo=React-query)](https://github.com/M-Hafez22?tab=repositories&q=react-query)
 
-![Vue](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=vue&logo=vue.js)
-[![Vuex](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=Vuex&logo=Vue.js)](https://github.com/M-Hafez22/islamic-prayer-times-vue)
-[![Pinia](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=pinia&logo=vue.js)](https://github.com/M-Hafez22/dynamic-form-vue)
+[![Vue](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=vue&logo=vue.js)](https://github.com/M-Hafez22?tab=repositories&q=vue)
+[![Vuex](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=Vuex&logo=Vue.js)](https://github.com/M-Hafez22?tab=repositories&q=vuex)
+[![Pinia](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=pinia&logo=vue.js)](https://github.com/M-Hafez22?tab=repositories&q=pinia)
 
 [![Docker](https://img.shields.io/static/v1?labelColor=222&color=2599EE&label=%20&message=Docker&logo=Docker)](https://hub.docker.com/u/mohamedhafez)
-![Sass](https://img.shields.io/static/v1?labelColor=222&color=CD6799&label=%20&message=Sass&logo=Sass)
+[![Sass](https://img.shields.io/static/v1?labelColor=222&color=CD6799&label=%20&message=Sass&logo=Sass)](https://github.com/M-Hafez22?tab=repositories&q=sass)
 ![BEM](https://img.shields.io/static/v1?labelColor=222&color=555454&label=%20&message=BEM&logo=bem)
 ![JSON](https://img.shields.io/static/v1?labelColor=222&color=555454&label=%20&message=JSON&logo=JSON)
-![jest](https://img.shields.io/static/v1?labelColor=222&color=9C415D&logoColor=9C415D&label=%20&message=jest&logo=jest)
+[![jest](https://img.shields.io/static/v1?labelColor=222&color=9C415D&logoColor=9C415D&label=%20&message=jest&logo=jest)](https://github.com/M-Hafez22?tab=repositories&q=jest)
 ![JSDoc](https://img.shields.io/static/v1?labelColor=222&color=41B782&label=%20&message=JSDoc&logo=JSDoc)
 
-[![Vite](https://img.shields.io/static/v1?labelColor=222&color=9F5BFE&label=%20&message=vite&logo=vite)](https://github.com/M-Hafez22/dynamic-form-vue)
+[![Vite](https://img.shields.io/static/v1?labelColor=222&color=9F5BFE&label=%20&message=vite&logo=vite)](https://github.com/M-Hafez22?tab=repositories&q=vite)
 ![WebPack](https://img.shields.io/static/v1?labelColor=222&color=93D7F8&label=%20&message=WebPack&logo=WebPack)
-![Parcel](https://img.shields.io/static/v1?labelColor=222&color=F1B97A&label=%20&message=parcel&logo=parcel)
+[![Parcel](https://img.shields.io/static/v1?labelColor=222&color=F1B97A&label=%20&message=parcel&logo=parcel)](https://github.com/M-Hafez22?tab=repositories&q=parcel-bundler)
 
 Basics of
-![Python](https://img.shields.io/static/v1?labelColor=222&color=3372A1&label=%20&message=Python&logo=Python)
-![bash](https://img.shields.io/static/v1?labelColor=222&color=4EAA25&label=%20&message=Bash&logo=gnu-bash)
+[![Python](https://img.shields.io/static/v1?labelColor=222&color=3372A1&label=%20&message=Python-Basics&logo=Python)](https://github.com/M-Hafez22?tab=repositories&language=python)
+[![bash](https://img.shields.io/static/v1?labelColor=222&color=4EAA25&label=%20&message=Bash-Basics&logo=gnu-bash)](https://github.com/M-Hafez22?tab=repositories&language=shell)
 
 ![Figma](https://img.shields.io/static/v1?labelColor=222&color=A259FE&label=%20&message=Figma&logo=Figma)
 ![adobeXD](https://img.shields.io/static/v1?labelColor=222&color=FF60F6&label=%20&message=adobeXD&logo=adobeXD)
